@@ -1,0 +1,7 @@
+D:\ОПиЛ\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+D:\ОПиЛ\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+D:\ОПиЛ\Auto\bin\Debug\Auto.exe.config
+D:\ОПиЛ\Auto\bin\Debug\Auto.exe
+D:\ОПиЛ\Auto\bin\Debug\Auto.pdb
+D:\ОПиЛ\Auto\obj\Debug\Auto.exe
+D:\ОПиЛ\Auto\obj\Debug\Auto.pdb
